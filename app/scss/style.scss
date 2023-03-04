@@ -1,5 +1,1 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: hsl(221, 53%, 31%);
-    color: hsl(0, 0%, 100%);
-}
+@forward 'globals';
